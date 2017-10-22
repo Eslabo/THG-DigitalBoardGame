@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{76D0FBE3-9315-69CB-D3A7-F48678377BC6}") = "InfinityJam", "Assembly-CSharp.csproj", "{F4D402F7-3EAA-BA60-C720-C83DBEB53A2F}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityJam", "Assembly-CSharp.csproj", "{F4D402F7-3EAA-BA60-C720-C83DBEB53A2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
