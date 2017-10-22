@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameStart.cs" />
+     <Compile Include="Assets\Scripts\Collectable.cs" />
      <Compile Include="Assets\Scripts\CreateBoard.cs" />
      <Compile Include="Assets\Scripts\Figures.cs" />
      <Compile Include="Assets\Scripts\HexCell.cs" />
